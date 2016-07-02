@@ -5,4 +5,4 @@ To run the server: go the directory which contains the matrixchat sub-directory.
 To run the client: Download the MatrixChat.jar file. Double-click it on your local harddisk to start the client.
 
 UML class diagram of the chat (click the image for a larger version):
-![Alt text](https://github.com/mb44/MatrixChat/blob/master/matrixchat.png?raw=true "UML Class diagram")
+![Alt text](https://github.com/mb44/MatrixChat/blob/master/MatrixChat-Class-Diagram.png?raw=true "UML Class diagram")
