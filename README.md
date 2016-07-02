@@ -8,4 +8,4 @@ UML class diagram of the chat (click the image for a larger version):
 ![Alt text](https://github.com/mb44/MatrixChat/blob/master/MatrixChat-Class-Diagram.png?raw=true "UML Class diagram")
 
 Screenshot of the system:
-![Alt text](https://github.com/mb44/MatrixChat/blob/master/chat.png?raw=true "Screenshot")
+![Alt text](https://github.com/mb44/MatrixChat/blob/master/chat.jpg?raw=true "Screenshot")
