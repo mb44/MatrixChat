@@ -6,3 +6,6 @@ To run the client: Download the MatrixChat.jar file. Double-click it on your loc
 
 UML class diagram of the chat (click the image for a larger version):
 ![Alt text](https://github.com/mb44/MatrixChat/blob/master/MatrixChat-Class-Diagram.png?raw=true "UML Class diagram")
+
+Screenshot of the system:
+![Alt text](https://github.com/mb44/MatrixChat/blob/master/chat.png?raw=true "Screenshot")
